@@ -1,3 +1,3 @@
 # hello-world
 This is my first repository 
-I got a bit lost to do codding on the git app. Hopefuly i will manage to figure it out by tomorrow!
+I would like to raise awarness in my community and help people have a healthy lifestyle by eating the right food!
